@@ -1,0 +1,7 @@
+files:
+  include: "testdata/**/*.scss"
+
+rules:
+  border-zero:
+    - 2
+    - convention: zero

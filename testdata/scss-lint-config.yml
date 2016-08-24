@@ -1,0 +1,8 @@
+scss_files: "testdata/**/*.scss"
+plugin_directories: ['.scss-linters']
+
+linters:
+  BorderZero:
+    enabled: true
+    convention: zero
+
